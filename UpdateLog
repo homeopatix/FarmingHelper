@@ -1,0 +1,143 @@
+UPDATE V3.5
+(French)
+Ajout d'un bouton pour reinitialiser la limite dans la fenetre d'options
+(English)
+Added a button to reset the limit in the options window
+(Deutsche)
+Es wurde eine Schaltfläche hinzugefügt, um das Limit im Optionsfenster zurückzusetzen
+
+UPDATE V3.4
+(French)
+Corriger un bug dans la derniere mise a jour
+(English)
+Fix a bug in the last update
+(Deutsche)
+Behebung eines Fehlers im letzten Update
+
+UPDATE V3.3
+(French)
+Corriger un bug qui effacait la fenetre en definissant une limite
+Affiche la limite en dessus de l'icone en tous petit
+(English)
+Fix a bug that cleared the window by setting a limit
+Display the limit above the icon in very small size
+(Deutsche)
+Beheben Sie einen Fehler, durch den das Fenster gelöscht wurde, indem Sie ein Limit festlegen
+Zeigen Sie den Grenzwert über dem Symbol in sehr kleiner Größe an
+
+UPDATE V3.2
+(French)
+Ajout d'une option qui change la couleur du texte quand une certaine limite est atteinte
+(English)
+Added an option that changes the text color when a certain limit is reached
+(Deutsche)
+Es wurde eine Option hinzugefügt, die die Textfarbe ändert, wenn ein bestimmtes Limit erreicht ist
+
+UPDATE V3.1
+(French)
+Arranger les slots d'icones pour plus de finesse
+Maintenant besoin d'appuyer sur la touche alt pour déplacer l'icone pricipale
+(English)
+Arrange the icon slots for more finesse
+Now need to press the alt key to move the main icon
+(Deutsche)
+Ordnen Sie die Symbol-Slots für mehr Finesse an
+Jetzt müssen Sie die Alt-Taste drücken, um das Hauptsymbol zu verschieben
+
+UPDATE V3.0
+(French)
+Nettoyage du code
+Optimisation pour une fouille du sac, du stockage partagé, et du coffre toutes les secondes et non plus toutes les Images par secondes
+(Utilise beaucoup moins de ressources machine)
+Ajout d'une fenêtre d'options pour définir par vous même l'espace de temps de contrôle du sac, du stockage partagé et du coffre
+(English)
+Code cleaning
+Optimization for the search of the bag, shared storage, and valut every second instead of every Frames per second
+(Uses much less machine resources)
+Addition of an options window to define by yourself the control time space of the bag, shared storage and vault
+(Deutsche)
+Code-Reinigung
+Optimierung für die Suche nach Tasche, gemeinsamem Speicher und Wert jede Sekunde anstelle aller Frames pro Sekunde
+(Verbraucht viel weniger Maschinenressourcen)
+Hinzufügen eines Optionsfensters, um den Kontrollzeitraum der Tasche, des gemeinsam genutzten Speichers und des Tresors selbst zu definieren
+
+UPDATE V2.7
+(French)
+nettoyage du code
+(English)
+code cleaning
+(Deutsche)
+Code-Reinigung
+
+UPDATE V2.6
+(French)
+Augmenter la taille du texte pour une meilleur lisibilité
+(English)
+Increase text size for better readability
+(Deutsche)
+Erhöhen Sie die Textgröße für eine bessere Lesbarkeit
+
+UPDATE V2.5
+(French)
+Empêcher un bug si l'utilisateur fait glisser un élément du stockage partagé ou du coffre-fort directement dans le plugin
+(English)
+Prevent a bug if the user drag an item from the sharedstorage or the vault directly in the plugin
+(Deutsche)
+Verhindern Sie einen Fehler, wenn der Benutzer ein Element aus dem gemeinsam genutzten Speicher oder dem Tresor direkt in das Plugin zieht
+
+UPDATE V2.4
+(French)
+quand vous transfez vos materiaux de récolte dans la banque ou le stockage partagé, garde en mémoire la quantité
+Merci a PuckByter pour son retour de bug ;)
+(English)
+when you transfer your harvesting material to the bank or shared storage, keep in mind the quantity
+Thanks to PuckByter for his bug feedback ;)
+(Deutsche)
+Beachten Sie die Menge, wenn Sie Ihr Erntematerial auf die Bank oder das gemeinsame Lager übertragen
+Danke an PuckByter für sein Bug-Feedback ;)
+
+UPDATE V2.3
+(French)
+Change une option pour eviter que la fenetre sous au dessus des fenetres du jeu
+(English)
+Change an option to prevent the window below above the game windows
+(Deutsche)
+Ändern Sie eine Option, um das Fenster unter den Spielfenstern zu verhindern
+
+UPDATE V2.2
+(French)
+corriger un bug  dans l'affichage du nombre de materiel farmé
+rajout de 4 raccourcis supplementaire
+(English)
+fix a bug in the display of the number of farmed equipment
+addition of 4 additional shortcuts
+(Deutsche)
+Behebung eines Fehlers in der Anzeige der Anzahl der landwirtschaftlichen Geräte
+Hinzufügen von 4 zusätzlichen Verknüpfungen
+
+UPDATE V2.1
+(French)
+corriger un bug dans les lignes de commandes
+(English)
+fix a bug in the command lines
+(Deutsche)
+Beheben Sie einen Fehler in den Befehlszeilen
+
+UPDATE V2.0
+(French)
+recherche dans votre sac a dos, votre coffre et votre espace partagé
+(English)
+search in your backpack, vault and shared storage
+(Deutsche)
+Suchen Sie in Ihrem Rucksack, Tresor und gemeinsam genutzten Speicher
+
+UPDATE V1.07
+(French)
+cache automatiquement le fenetre au demarrage
+cache le bouton et la fentre en pressant sur F12
+(English)
+automatically hide the window at startup
+hide the button and the window by pressing F12
+(Deutsche)
+Das Fenster beim Start automatisch ausblenden
+Blenden Sie die Schaltfläche und das Fenster aus, indem Sie F12 drücken
