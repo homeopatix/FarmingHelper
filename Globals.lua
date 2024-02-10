@@ -13,34 +13,34 @@ function CreateLocalizationInfo()
 		Strings.PluginEscDesable = "Escape-Taste deaktiviert";
 		Strings.PluginAltEnable = "Alt-Taste aktiviert";
 		Strings.PluginAltDesable = "Alt-Taste deaktiviert";
-		Strings.PluginBag = "Dein Rucksack";
-		Strings.PluginSharedStorage = "Ihr gemeinsamer Raum";
-		Strings.PluginVault = "Dein Kofferraum";
-		Strings.PluginPrevention = "Sie m\195\188ssen zuerst\n\nIhr Safe\nund\nIhr gemeinsam genutzter Speicher\n\n\195\182ffnen, um die Suche an diesen Speicherorten zu erm\195\182glichen";
+		Strings.PluginBag = "Im Inventar";
+		Strings.PluginSharedStorage = "Im Gemeinsamen Lagerraum";
+		Strings.PluginVault = "In der Bank";
+		Strings.PluginPrevention = "Du musst zuerst deine Bank und den Gemeinsamen Lagerraum \195\182ffnen, um die Suche an diesen Speicherorten zu erm\195\182glichen!";
 		Strings.PreventionButton = "OK" ;
 		Strings.PreventionButtonOK = "Warne mich nicht noch einmal" ;
 		Strings.PluginHelp = " *** Farmer Help ***\n\n" ..
-		"/Fa show - Zeigen Sie das Fenster an\n" ..
-		"/Fa hide - Verstecke das Fenster\n" ..
-		"/Fa alt - Aktivieren oder deaktivieren Sie die alt-Taste um das Symbol zu verschieben.\n" ..
-		"/Fa esc - aktiviert oder deaktiviert das Fenster, das mit der Escape-Taste geschlossen wird\n" ..
-		"/Fa toggle - Fenster ein-oder ausblenden\n" ..
-		"/Fa options - Zeigen Sie das Optionsfenster an\n\n" ..
-		"Sie k\195\182nnen die Elemente, die Sie bewirtschaften, per Drag & Drop in die Zeile ziehen und l\195\182schen Sie sie mit dem Mausrad\nSie m\195\188ssen zuerstIhr Safe und Ihr gemeinsam genutzter Speicher\195\182ffnen, um die Suche an diesen Speicherorten zu erm\195\182glichen";
-		Strings.ClearButton = "Steckpl\195\164tze l\195\182schen";
-		Strings.ErrorDrag = "Sie m\195\188ssen ein Objekt aus Ihrem Rucksack ziehen";
-		Strings.PluginOption1 = "Aktualisieren Sie den Rucksack";
-		Strings.PluginOption2 = "Aktualisieren Sie den gemeinsam genutzten Speicher";
-		Strings.PluginOption3 = "Aktualisieren Sie den Tresor"
-		Strings.PluginOption10 = "\195\132nderungen validieren";
+		"/fa show - Zeigt das Fenster an.\n" ..
+		"/fa hide - Blendet das Fenster aus.\n" ..
+		"/fa alt - Alt-Taste gedr\195\188ckt halten, um das Symbol zu verschieben.\n" ..
+		"/fa esc - Aktiviert/Deaktiviert die Escape-Taste, um das Fenster zu schlie\195\159en.\n" ..
+		"/fa toggle - Fenster anzeigen/ausblenden.\n" ..
+		"/fa options - Zeigt die Optionen an.\n\n" ..
+		"Ziehe einen Rohstoff per Drag & Drop auf den entsprechenden Platz, um ihn zu beobachten.\n\nZeige zum L\195\182schen mit dem Mauszeiger auf den Rohstoff und drehe das Mausrad.\n\nDu musst zuerst deine Bank und den Gemeinsamen Lagerraum \195\182ffnen, um die Suche an diesen Speicherorten zu erm\195\182glichen.";
+		Strings.ClearButton = "Slots l\195\182schen";
+		Strings.ErrorDrag = "Du musst ein Objekt aus dem Inventar ziehen!";
+		Strings.PluginOption1 = "Aktualisierungszeit für das Inventar";
+		Strings.PluginOption2 = "Aktualisierungszeit für den Gem. Lagerraum";
+		Strings.PluginOption3 = "Aktualisierungszeit für die Bank"
+		Strings.PluginOption10 = "Speichern";
 		Strings.PluginOption4 = "Limit f\195\188r Slot ";
 		Strings.PluginOption5 = "Definieren Sie am ";
 		Strings.PluginText = "Von Homeopatix";
-		Strings.PluginOptionsText = "Farming Helper Options";
-		Strings.PluginOptionShowWindow = "Zeigen Sie das Optionsfenster an";
-		Strings.PluginWindowClear = "L\195\182schen Sie alle Verkn\195\188pfungen.";
-		Strings.PluginWindowShow = "Schaufenster.";
-		Strings.PluginWindowHide = "Verstecke das Fenster.";
+		Strings.PluginOptionsText = "Farming Helper Optionen";
+		Strings.PluginOptionShowWindow = "Optionen werden angezeigt";
+		Strings.PluginWindowClear = "Alle Verkn\195\188pfungen gel\195\182scht!";
+		Strings.PluginWindowShow = "Fenster wird angezeigt";
+		Strings.PluginWindowHide = "Fenster wird ausgeblendet";
 		Strings.PluginReset = "Zur\195\188cksetzen";
 
 elseif Turbine.Engine.GetLanguage() == Turbine.Language.French then
