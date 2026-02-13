@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Plugin>
+	<Information>
+		<Name>Farmer</Name>
+		<Author>Homeopatix</Author>
+		<Version>3.91</Version>
+		<Description>
+DESCRIPTION (Francais)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+FarmingHelper est un petit plugin pour avoir une vison rapide des objects que vous farmer sans avoir a ouvrir votre sac toutes les 5 minuttes
+Vous pouvez effacer un raccourci avec la mollete de la souris sur le reccourci
+Vous devez ouvrir votre coffre et votre stocakge partage pour activer la recherche dans ces emplacements
+
+DESCRIPTION (English)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+FarmingHelper is a small plugin to have a quick view of the objects you farm without having to open your bag every 5 minutes
+You can delete a shortcut with the mouse wheel on the shortcut
+You must open your safe and your shared storage to activate the search in these locations
+
+DESCRIPTION (Deutsche)  
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+FarmingHelper ist ein kleines Plugin, mit dem Sie schnell einen Uberblick uber die von Ihnen bewirtschafteten Gegenstande erhalten, ohne alle 5 Minuten Ihre Tasche offnen zu mussen
+Sie konnen eine Verknupfung mit dem Mausrad auf der Verknupfung loschen
+Sie mussen Ihren Safe und Ihren gemeinsam genutzten Speicher offnen um die Suche an diesen Orten zu aktivieren
+
+LIST OF ALL COMMANDS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+(French)
+Raccourci disponible
+/Fa show - montre la fenetre
+/Fa hide - cache la fenetre
+/Fa esc - active ou desactive la touche escape
+/Fa alt - Active ou desactive la touche alt pour le deplacement de l'icon
+/Fa toggle - Basculer la fenetre
+/Fa options - Affiche la fenetre d'options
+
+(English)
+Shortcut available
+/Fa show - show the window
+/Fa hide - hide the window
+/Fa esc - activate or deactivate the escape key
+/Fa alt - Activate or deactivate the alt key to move the icon
+/Fa toggle - Toggle window
+/Fa options - Display the option window
+
+(Deutsche)
+Verknupfung verfugbar
+/Fa show - zeige das Fenster
+/Fa Hide - Verstecke das Fenster
+/Fa esc - Aktivieren oder deaktivieren Sie die Escape-Taste
+/Fa alt - Aktivieren oder deaktivieren Sie die alt-Taste um das Symbol zu verschieben
+/Fa toggle - Fenster aktivieren- und deaktivieren
+/Fa options - Zeigen Sie das Optionsfenster an
+		</Description>
+<Image>Homeopatix/Farmer/Resources/pluginmanager_icon.tga</Image>
+	</Information>
+	<Package>Homeopatix.Farmer.Main</Package>
+<Configuration Apartment="Farmer" />
+</Plugin>
