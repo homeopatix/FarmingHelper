@@ -1,4 +1,5 @@
-`<img width="1536" height="1024" alt="homeo_plugins" src="https://github.com/user-attachments/assets/435fdf91-b616-46ca-be02-105f250d0e4c" />`{=html}
+<img width="1536" height="1024" alt="homeo_plugins" src="https://github.com/user-attachments/assets/efc12680-92c1-4631-a7a8-d2b3c7dc4cba" />
+
 
 # 👥 FarmingHelper -- LOTRO Plugin
 
@@ -28,21 +29,21 @@ ouvrir votre sac en permanence.
 
 ## 📌 Commandes Chat
 
-  Commande        Description
-  --------------- ------------------------------------
-  `/Fhm toggle`   Bascule l'affichage de la fenêtre
-  `/Fhm show`     Affiche la fenêtre
-  `/Fhm hide`     Cache la fenêtre
-  `/Fhm reset`    Réinitialise les données affichées
+  Commande        Description\
+  --------------- ------------------------------------\
+  `/Fhm toggle`   Bascule l'affichage de la fenêtre\
+  `/Fhm show`     Affiche la fenêtre\
+  `/Fhm hide`     Cache la fenêtre\
+  `/Fhm reset`    Réinitialise les données affichées\
 
 ------------------------------------------------------------------------
 
 ## 🎹 Raccourcis
 
-  Action               Touche
-  -------------------- --------------------------
-  Déplacer l'icône     ALT (si activé)
-  Ouvrir les options   SHIFT + clic sur l'icône
+  Action               Touche\
+  -------------------- --------------------------\
+  Déplacer l'icône     ALT (si activé)\
+  Ouvrir les options   SHIFT + clic sur l'icône\
 
 ------------------------------------------------------------------------
 
@@ -52,12 +53,11 @@ ouvrir votre sac en permanence.
 2.  Extraire le dossier.
 3.  Copier le dossier `FarmingHelper` dans :
 
-Documents`\The `{=tex}Lord of the Rings
-Online`\Plugins`{=tex}`\Homeopatix`{=tex}
+    Documents\The Lord of the Rings Online\Plugins\Homeopatix
 
 4.  En jeu :
-
-/plugins load FarmingHelper
+    
+    /plugins load FarmingHelper
 
 ------------------------------------------------------------------------
 
@@ -68,16 +68,15 @@ connexion/déconnexion.
 
 Les fichiers sont enregistrés dans :
 
-Documents`\The `{=tex}Lord of the Rings
-Online`\PluginData`{=tex}\<Compte\>\<Serveur\>\<Personnage\>
+    Documents\The Lord of the Rings Online\PluginData\<Compte>\<Serveur>\<Personnage>
 
 ------------------------------------------------------------------------
 
 # 🏗️ Architecture
 
--   Langage : Lua\
--   Type : Plugin LOTRO\
--   Stockage : Données locales (PluginData)\
+-   Langage : **Lua**
+-   Type : Plugin LOTRO
+-   Stockage : Données locales (PluginData)
 -   Compatibilité : Toutes versions LOTRO récentes
 
 ------------------------------------------------------------------------
@@ -86,28 +85,29 @@ Online`\PluginData`{=tex}\<Compte\>\<Serveur\>\<Personnage\>
 
 ## 🇫🇷 !!! Besoins !!!
 
-Vous devez avoir installé le package Turbine.\
-https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html
+Vous devez avoir installé le package **Turbine**.\
+Vous pouvez le télécharger à cette adresse : **[ICI](https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html)**
 
 ------------------------------------------------------------------------
 
 ## 🇬🇧 !!! Needs !!!
 
-You need to have the Turbine package installed.\
-https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html
+You need to have the **Turbine package** installed.\
+You can download it at this address: **[HERE](https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html)**
 
 ------------------------------------------------------------------------
 
 ## 🇩🇪 !!! Bedürfnisse !!!
 
-Sie müssen das Turbine-Paket installiert haben.\
-https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html
+Sie müssen das **Turbine-Paket** installiert haben.\
+Sie können es unter dieser Adresse herunterladen: **[HIER](https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html)**
 
 ------------------------------------------------------------------------
 
 # 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License -- see the LICENSE file
+for details.
 
 ------------------------------------------------------------------------
 
